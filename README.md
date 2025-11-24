@@ -11,7 +11,7 @@ Construir un modelo de clasificación capaz de estimar ingresos >50K a partir de
 
 ## 📁 Dataset
 - Fuente: Adult Census Income (UCI).  
-- ~48.800 registros, 14 variables.  
+- ~32.561 registros, 15 variables.  
 - Procesado: limpieza, One-Hot Encoding, escalado, split 80/20 y **SMOTE** para balancear.
 
 ---
